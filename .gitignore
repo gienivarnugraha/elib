@@ -1,0 +1,3 @@
+/api/storage/*
+/api/vendor/*
+/view/node_modules/*
